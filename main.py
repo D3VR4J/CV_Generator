@@ -13,7 +13,7 @@ while run:
         continue
 
     else:
-        print ("This is PC Builder")
+        print ("This is CV Builder")
         name = input("Enter Your name: ")
         pno = '+91' + input("Enter Your Mobile no.: ")
         email = input("Enter your email: ")
